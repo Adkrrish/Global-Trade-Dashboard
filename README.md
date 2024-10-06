@@ -1,6 +1,6 @@
 # Global Trade Insights Dashboard
 
-![Global Trade Insights Dashboard](path/to/dashboard-screenshot.png) <!-- You can add a screenshot or image of your dashboard here -->
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
