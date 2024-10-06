@@ -1,6 +1,6 @@
 # Global Trade Insights Dashboard
 
-Snipshot1.png
+![Global Trade Insights Dashboard](Snipshot1.png)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
