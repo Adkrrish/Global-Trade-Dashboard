@@ -1,4 +1,4 @@
-streamlit==1.25.0  # Make sure to use the latest version available if needed
-pandas==2.1.1  # Used for data manipulation
-matplotlib==3.8.0  # Required for plotting
-seaborn==0.12.2  # Required for advanced visualizations built on top of matplotlib
+streamlit
+pandas
+matplotlib
+seaborn
