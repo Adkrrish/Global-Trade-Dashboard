@@ -1,4 +1,5 @@
 # Global Trade Insights Dashboard
+Link: https://global-trade-insights-dashboard-c5mynuckcvcckrpfvunh94.streamlit.app/
 
 ![Global Trade Insights Dashboard](Snipshot1.png)
 
