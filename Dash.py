@@ -15,7 +15,7 @@ import seaborn as sns
 # Load the dataset with new caching method
 @st.cache_data
 def load_data():
-    return pd.read_csv("D:\\MBA materials\\Trimester 1\\DEVP(AMitra)\\Imports_Exports_Dataset.csv").sample(n=3001, random_state=55022)
+    return pd.read_csv("Imports_Exports_Dataset.csv").sample(n=3001, random_state=55022)
 
 df = load_data()
 
